@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nicolas-Gatien/HandoverFacilitator/issues"
   },
-  "homepage": "https://github.com/Nicolas-Gatien/HandoverFacilitator#readme"
+  "homepage": "https://github.com/Nicolas-Gatien/HandoverFacilitator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
