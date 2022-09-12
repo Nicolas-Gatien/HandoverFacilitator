@@ -21,7 +21,7 @@ for item in r.get_ranked_phrases_with_scores():
         print(item)
         y -= 1
 
-with open('data.json', 'w') as f:
+with open('export_data.json', 'w') as f:
     print("data.json is made")
 
 for x in range(0, 3):
@@ -42,6 +42,6 @@ for x in range(0, 3):
                 sentences -= 1
     data[x] = excerpt.strip()
 
-with open('data.json', 'w') as f:
+with open('export_data.json', 'w') as f:
     json.dump(data, f, indent=2)
-    print("New json file is created from data.json file")
+    print("New json file is created from export_data.json file")
