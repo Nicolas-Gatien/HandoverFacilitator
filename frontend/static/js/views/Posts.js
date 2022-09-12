@@ -1,5 +1,4 @@
 import AbstractView from "./AbstractView.js";
-import data from './data.json' assert { type: 'JSON' };
 
 export default class extends AbstractView {
     constructor(params) {
@@ -10,7 +9,8 @@ export default class extends AbstractView {
     async getHtml() {
         return `
             <h1>Nicolas Gatien</h1>
-            <p>Top 3 Important Details</p>
-        `;
+            <p>Enter Medical Record</p>
+            <textarea id="recordText" name="recordText" class="recordText"></textarea>        
+            `;
     }
 }
