@@ -1,0 +1,13 @@
+from urllib import response
+from requests_html import HTMLSession
+from rake_nltk import Rake
+
+def extract_text():
+    s = HTMLSession()
+    url = "Saskatchewan (/səˈskætʃəwən, sæ-, -wɒn/ (listen) sə-SKATCH-ə-wən; Canadian French: [saskatʃəwan]) is a province in western Canada, bordered on the west by Alberta, on the north by the Northwest Territories, on the east by Manitoba, to the northeast by Nunavut, and on the south by the U.S. states of Montana and North Dakota. Saskatchewan and Alberta are the only landlocked provinces of Canada. In 2022, Saskatchewans population was estimated at 1,186,308.[8] Nearly 10% of Saskatchewan’s total area of 651,900 square kilometres (251,700 sq mi) is fresh water, mostly rivers, reservoirs and lakes. Residents primarily live in the southern prairie half of the province, while the northern half is mostly forested and sparsely populated. Roughly half live in the provinces largest city Saskatoon or the provincial capital Regina. Other notable cities include Prince Albert, Moose Jaw, Yorkton, Swift Current, North Battleford, Melfort, and the border city Lloydminster.[9] English is the primary language of the province, with 82.4% of Saskatchewanians speaking English as their first language.[10] Saskatchewan has been inhabited for thousands of years by indigenous groups. Europeans first explored the area in 1690 and first settled in the area in 1774. It became a province in 1905, carved out from the vast North-West Territories, which had until then included most of the Canadian Prairies. In the early 20th century, the province became known as a stronghold for Canadian social democracy; North Americas first social-democratic government was elected in 1944. The provinces economy is based on agriculture, mining, and energy. The current Lieutenant Governor is Russell Mirasty. The current premier is Scott Moe. The province has been governed by the Saskatchewan Party since 2007. In 1992, the federal and provincial governments signed a historic land claim agreement with First Nations in Saskatchewan.[11] The First Nations received compensation and were permitted to buy land on the open market for the bands; they have acquired about 3,079 square kilometres (761,000 acres; 1,189 sq mi), now reserve lands. Some First Nations have used their settlement to invest in urban areas, including Regina and Saskatoon.[11]"
+    return url
+
+r = Rake()
+r.extract_keywords_from_text(extract_text())
+for item in r.get_ranked_phrases_with_scores():
+    print(item)
