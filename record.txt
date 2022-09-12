@@ -1,24 +1,40 @@
-📚 Reading List
-The Top 10 signifies that if I had all of these books, those are the 10 books I would read first. I’m happy to get anything in Others as well, they are also all incredibly interesting books! :D
-🥇 Top 10:
-The Business of Alchemy - Pamela H Smith
-How to Read a Book - Mortimer J. Adler
-The Gulag Archipelago - Aleksandr Solzhenitsyn
-The Interpretation of Dreams - Sigmund Freud
-Levitin, J. Daniel: The Organized Mind
-Hooks, Bell: Teaching Critical Thinking
-Ury, Logan: How To Not Die Alone
-Wright, Craig: The Hidden Habits of Genius
-Dostoyevsky, Fyodor: Crime and Punishment
-Adams, Douglas: The Hitchhiker's Guide to the Galaxy
-📦 Others:
-Browning, R. Christopher: Ordinary Men
-Frankl,  E. Viktor: Man's Search for Meaning
-Harari, Noah, Yuval: Sapiens
-Hooks, Bell: Feminism Is for Everybody
-Greene, Robert: 48 Laws of Power
-Lomborg, Bjørn: How to Spend 75 Billion to Make the World a Better Place
-Peterson, B. Jordan: Beyond Order, 12 More Rules For Life
-Tolstoy, Leo: War and Peace
-Weir, Andy: The Martian
-Zizek, Slavoj: The Sublime Object of Ideology
+Bone Fractures
+S - Subjective
+What the patient tells you
+Patient states “I fell while playing hockey a few days ago and my fingers haven’t stopped hurting, it gets a lot worse whenever pressure is applied”
+
+Patient is a 13 year old male. Prior to the visit, the patient says he was taking advil and tylonol for a few days.
+O - Objective
+What you see
+X-ray shows 2 clear fractures on the ring and middle finger on the right hand.
+A - Assessment
+What you think is going on
+Patient fractured ring and middle finger on the right hand.
+P - Plan
+What you will do about it
+Make a temporary cast
+Follow up at Cheo in 5 days for an appointment to make a more solid one
+
+
+
+
+PVC Pipe
+S - Subjective
+What the patient tells you
+Patient states “I had made toy weapons using pool noodles and pvc pipes. While I was fighting one of my friends, he accidentally threw his at me, and the exposed pvc pipe hit me in the forehead.”
+
+Patient is a 12 year old male. Prior to the visit, the patient’s grandfather states that he was at school. The principle tended to him and wiped the blood off his face.
+O - Objective
+What you see
+There is a clear wound on the forehead. It is semi circle shaped. It is still bleeding a little.
+P - Plan
+What you will do about it
+Ask patient if he is comfortable with getting stitches
+If not, glue up wound instead.
+
+BASE INFO:
+Sex: Male.
+Age: 16.
+Birthday: September 9th, 2006.
+Allergies: None.
+Name: Nicolas Jeremy Gatien
